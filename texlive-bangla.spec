@@ -1,6 +1,6 @@
 Name:		texlive-bangla
-Version:	60159
-Release:	2
+Version:	65786
+Release:	1
 Summary:	A comprehensive Bangla LaTeX package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bangla
