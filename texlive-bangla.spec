@@ -3,7 +3,7 @@ Version:	65786
 Release:	1
 Summary:	A comprehensive Bangla LaTeX package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bangla
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bangla
 License:	lppl1.3c ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bangla.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bangla.doc.r%{version}.tar.xz
